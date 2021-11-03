@@ -28,3 +28,11 @@ So ... 💪🏼💪🏼💪🏼 I'm eager to find people to share with and conti
     + [Linkedin](https://www.linkedin.com/in/sebastian-atl%C3%A1ntico-rodr%C3%ADguez-capurro/)
     + [Instagram](https://www.instagram.com/sarctiann/)
 
+***
+
+# *My Repositories:*
+
++ [SomePython3Tools](https://github.com/Sarctiann/SomePython3Tools)
+    > Some python3 scripts that can be useful for beginners
++ [JuceDistortions](https://github.com/Sarctiann/JuceDistortions)
+    > Two distortions made with JUCE Framework C++
