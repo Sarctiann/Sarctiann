@@ -1,10 +1,12 @@
-## Sebastián Atlántico Rodríguez Capurro
+## 👋🏼 Hi I'm Sarctiann
 
 ![](Sarc7.jpeg)
 
-#### 👋🏼 Hi I'm Sarctiann
+#### Sebastián Atlántico Rodríguez Capurro
 
 ***
+
+## *About me:*
 
 + 🔘 I'm a Python3 Developer && Academic musician
 
