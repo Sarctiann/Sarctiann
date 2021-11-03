@@ -3,7 +3,7 @@
 
 ***
 
-<kbd> <img src=https://github.com/Sarctiann/Sarctiann/blob/main/Sarc7.jpeg width=300px)> </kbd>
+<img src=https://github.com/Sarctiann/Sarctiann/blob/main/Sarc7.jpeg width=300px)>
 
 ***
 
