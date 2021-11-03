@@ -5,9 +5,9 @@
 ## *Short Intro:*
 
 + 👋🏼 Hi I'm Sebastián Atlántico Rodríguez Capurro
-+ 🚼 I'm Corrientes, Argentina and I was born in 1990
++ 🚼 I'm Corrientes, 🏠 Argentina and I was born 📆 in 1990
 
-+ All my life I was surrounded by 🎹musical instruments🎸 and 💻computers🖥. So it's no coincidence that I've spent my entire life creating my own 🔊sounds, 🎶music, 📄programs, and 🏹custom articles.
++ All my life I was surrounded by 🎹 musical instruments and 💻 computers. So it's no coincidence that I've spent my entire life creating my own 🔊 sounds, 🎶 music, 📄 programs, and 🏹 custom articles.
 
 + Not long ago I started in formal programming, and I love it, I learned Python3 PHP, C, C ++, Rust, JS among others. And I became a linux user ❤ so there I met the power of the terminal 😍.
 
@@ -24,7 +24,8 @@ So ... 💪🏼💪🏼💪🏼 I'm eager to find people to share with and conti
 + 🧡 I'm mainly interested in audio programming, systems, back-ends, databases among other things.
 + 💬 My native language is Spanish but I also have an intermediate level of English or close 😄.
 + 📫 You can reach me:
-    + [E-MAIL](mailto:sebas.sarc@gmail.com)
+    + 📞 [Callme + 54 9 379 4142332]("tel:+5493794142332")
+    + 📨 [E-MAIL](mailto:sebas.sarc@gmail.com)
     + [Linkedin](https://www.linkedin.com/in/sebastian-atl%C3%A1ntico-rodr%C3%ADguez-capurro/)
     + [Instagram](https://www.instagram.com/sarctiann/)
 
