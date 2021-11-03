@@ -1,9 +1,8 @@
 ### Sebastián Atlántico Rodríguez Capurro
+
+![](Sarc7.jpeg)
+
 ###### 👋🏼 Hi I'm Sarctiann
-
-***
-
-<kbd> ![](Sarc7.jpeg) </kbd>
 
 ***
 
