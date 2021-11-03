@@ -3,7 +3,7 @@
 
 ***
 
-<img src=Sarc7.jpeg width=300px/>
+<img src=Sarc7.jpeg width=300px></img>
 
 ***
 
