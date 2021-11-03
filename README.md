@@ -1,9 +1,3 @@
-```
-title: AtlanticWorkshop
-```
-
-## Sarctiann
-
 ![](Sarc7.jpeg)
 
 #### 👋🏼 Hi I'm Sebastián Atlántico Rodríguez Capurro
