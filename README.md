@@ -3,7 +3,7 @@
 
 ***
 
-![](Sarc7.jpeg)
+<img src=Sarc7.jpeg width=300px>
 
 ***
 
