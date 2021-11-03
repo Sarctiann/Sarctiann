@@ -24,7 +24,7 @@ So ... 💪🏼💪🏼💪🏼 I'm eager to find people to share with and conti
 + 🧡 I'm mainly interested in audio programming, systems, back-ends, databases among other things.
 + 💬 My native language is Spanish but I also have an intermediate level of English or close 😄.
 + 📫 You can reach me:
-    + 📞 [Callme + 54 9 379 4142332]("tel:+5493794142332")
+    + 📞 Call me + 54-9-379-4142332
     + 📨 [E-MAIL](mailto:sebas.sarc@gmail.com)
     + [Linkedin](https://www.linkedin.com/in/sebastian-atl%C3%A1ntico-rodr%C3%ADguez-capurro/)
     + [Instagram](https://www.instagram.com/sarctiann/)
