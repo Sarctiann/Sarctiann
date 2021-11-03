@@ -3,7 +3,11 @@
 
 ***
 
-<img src=Sarc7.jpeg width=300px></img>
+<kbd> ![thumbnail](Sarc7.jpeg) </kbd>
+
+img[alt=thumbnail] {
+    width=300px;
+}
 
 ***
 
