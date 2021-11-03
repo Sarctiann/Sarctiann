@@ -3,7 +3,7 @@
 
 ***
 
-<kbd> <img src=Sarc7.jpeg width=300px/> </kbd>
+<img src=Sarc7.jpeg width=300px/>
 
 ***
 
