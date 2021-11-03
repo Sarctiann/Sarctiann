@@ -3,7 +3,7 @@
 
 ***
 
-![](https://github.com/Sarctiann/Sarctiann/blob/main/Sarc7.jpeg)
+![](Sarc7.jpeg)
 
 ***
 
