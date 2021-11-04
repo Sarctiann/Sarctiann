@@ -1,8 +1,10 @@
+#
+
 💼 Here I will publish my work, so check this out once in a while!
 
 <img width="250" src="Sarc7.jpeg" />
 
-## *Short Intro:*
+## *📍 Short Intro:*
 
 + 👋🏼 Hi I'm Sebastián Atlántico Rodríguez Capurro
 + 🚼 I was born in 🏠 Corrientes, Argentina on 📆 January 15, 1990.
@@ -17,7 +19,7 @@ So ... 💪🏼💪🏼💪🏼 I'm eager to find people to share with and conti
 
 ***
 
-## *About me:*
+## *📋 About me:*
 
 + 🟢 I'm a Python3 Developer mostly
 + 🟣 I frequently use:
@@ -37,7 +39,7 @@ So ... 💪🏼💪🏼💪🏼 I'm eager to find people to share with and conti
 
 ***
 
-## *My Repositories:*
+## *📚 My Repositories:*
 
 + [SomePython3Tools](https://github.com/Sarctiann/SomePython3Tools)
     > Some python3 scripts that can be useful for beginners
