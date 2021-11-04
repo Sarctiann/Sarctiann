@@ -9,7 +9,7 @@
 
 + All my life I was surrounded by 🎹 musical instruments and 💻 computers. So it's no coincidence that I've spent my entire life creating my own 🔊 sounds, 🎶 music, 📄 programs, and 🏹 custom items.
 
-+ Not long ago I started in formal programming, and I love it, I learned Python3 PHP, C, C ++, Rust, JS among others. And I became a linux user ❤ so there I met the power of the terminal 😍.
++ Not long ago I started in formal programming, and I love it, I learned Python3, PHP, C, C ++, Rust, JS among others. And I became a linux user ❤ so there I met the power of the terminal 😍.
 
 + It didn't take me long to dive into this. And I learned how to use GIT, databases like SQL and MongoDB. And web frameworks like Django, Flask, and REST Framework (I love the API philosophy 👍🏼). Also, I learned tkinter (a famous TCL GUI library from python standard library) with which I programmed various tools that I use every day in my work.
 
