@@ -2,7 +2,7 @@
 
 <img width="250" src="Sarc7.jpeg" />
 
-## *Short Intro 📍 :*
+# *Short Intro 📍 :*
 
 + 👋🏼 Hi I'm Sebastián Atlántico Rodríguez Capurro
 + 🚼 I was born in 🏠 Corrientes, Argentina on 📆 January 15, 1990.
@@ -17,7 +17,7 @@ So ... 💪🏼💪🏼💪🏼 I'm eager to find people to share with and conti
 
 ***
 
-## *About me 📋 :*
+# *About me 📋 :*
 
 + 🟢 I'm a Python3 Developer mostly
 + 🟣 I frequently use:
@@ -37,15 +37,56 @@ So ... 💪🏼💪🏼💪🏼 I'm eager to find people to share with and conti
 
 ***
 
-## *My Repositories 📚 :*
+# *My Repositories 📚 :*
 
-+ [SomePython3Tools](https://github.com/Sarctiann/SomePython3Tools)
++ ## [SomePython3Tools](https://github.com/Sarctiann/SomePython3Tools)
     > Some python3 scripts that can be useful for beginners
-+ [JuceDistortions](https://github.com/Sarctiann/JuceDistortions)
+    
+    SortedDict Sample:
+    ```python
+    >>> print(a)
+    {4: ['e', 30], 5: ['c', 20], 6: ['a', 10], 1: ['b', 60], 2: ['d', 50], 3: ['f', 40]}
+
+    >>> sorted_by_key = sort_dict(a)
+    >>> sorted_by_key
+    {1: ['b', 60], 2: ['d', 50], 3: ['f', 40], 4: ['e', 30], 5: ['c', 20], 6: ['a', 10]}
+
+    >>> sorted_by_second_value = sort_dict(a, 1)
+    >>> sorted_by_second_value
+    {6: ['a', 10], 5: ['c', 20], 4: ['e', 30], 3: ['f', 40], 2: ['d', 50], 1: ['b', 60]}
+
+    >>> sorted_by_first_value_and_filtered_by_second = sort_dict(a, 0, 1, 20, 40)
+    >>> sorted_by_first_value_and_filtered_by_second
+    {5: ['c', 20], 4: ['e', 30], 3: ['f', 40]}
+    ```
+    
++ ## [JuceDistortions](https://github.com/Sarctiann/JuceDistortions)
     > Two distortions made with JUCE Framework C++
+
+    I included the Juce headings just in case ... But these will not work for you because the routes of the Juce modules are in a different place in your system.
+    You must open RFDistortion.jucer with Projucer to setup the exporters and generate these files properly.
+    
+    To work with this you should use other branch:
+    ```
+    git checkout master # For ToyiDistortion
+        # or
+    git checkout ale # For AleDistortion
+    ```
+    once there, (on Linux) you can build the application:
+    ```
+    cd Build/LinuxMakefile
+    make
+    ```
+    To Run it:
+    ```
+    ./build/ToyiDistortion # For ToyiDistortion
+        # or
+    ./build/AleDistortion # For AleDistortion
+    ```
+    
 ***
 
-## *You can reach me 📫 :*
+# *You can reach me 📫 :*
 
 + 📞 Call Me: + 54-9-379-4142332
 + 📨 [Mail Me: sebas.sarc@gmail.com](mailto:sebas.sarc@gmail.com)
