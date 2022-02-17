@@ -84,6 +84,20 @@ So ... 💪🏼💪🏼💪🏼 I'm eager to find people to share with and conti
     ./build/AleDistortion # For AleDistortion
     ```
     
++ ## [audiocenter intranet](https://github.com/Sarctiann/ACIN)
+    > An integrating tool for my work in audiocenter
+
+    for its implementation I chose:
+
+    + Python Flask for the backend
+    + mongoDB for database
+    + and React with MUI for the frontend
+    
+    It consists of three modules:
+    + News (for internal communication of the company)
+    + Calculator (to perform specific daily calculations)
+    + Answers (to centralize updated relevant information)
+    
 ***
 
 # *You can reach me 📫 :*
